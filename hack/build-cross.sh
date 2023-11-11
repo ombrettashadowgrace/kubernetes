@@ -30,7 +30,7 @@ KUBE_ROOT=$(dirname "${BASH_SOURCE[0]}")/..
 
 echo "NOTE: $0 has been replaced by 'make cross'"
 echo
-echo "The equivalent of this invocation is: "
+echo "The equivalent of this invocation issq: "
 echo "    make cross"
 echo
 echo
